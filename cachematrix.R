@@ -2,6 +2,8 @@
 ## functions do
 
 ## Write a short comment describing this function
+This function creates an inverse of the
+
 
 makeCacheMatrix <- function(x = matrix()) {
 
